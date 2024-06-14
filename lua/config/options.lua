@@ -14,6 +14,7 @@ opt.smoothscroll = true
 opt.foldexpr = "v:lua.require'lazyvim.util'.ui.foldexpr()"
 opt.foldmethod = "expr"
 opt.foldtext = ""
+opt.guifont = "JetBrain's Mono"
 
 vim.g.markdown_recommended_style = 0
 
